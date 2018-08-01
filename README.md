@@ -1,0 +1,2 @@
+# bestminer-
+BTC Miner
